@@ -1,0 +1,34 @@
+Folder PATH listing for volume New Volume
+Volume serial number is 9CEA-229F
+E:.
+|   tree.txt
+|   
++---admin
+|   |   index.ts
+|   |   layout.tsx
+|   |   
+|   \---routes
+|           CreateLocation.tsx
+|           Dashboard.tsx
+|           Locations.tsx
+|           Requests.tsx
+|           UsersPage.tsx
+|           
++---auth
+|   |   index.ts
+|   |   layout.tsx
+|   |   
+|   \---routes
+|           Login.tsx
+|           Register.tsx
+|           
+\---main
+    |   index.ts
+    |   layout.tsx
+    |   
+    \---routes
+            Explore.tsx
+            Home.tsx
+            Location.tsx
+            Profile.tsx
+            
